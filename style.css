@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color:darkcyan;
+    margin: 0;
+    padding: 20px;
+}
+#shape{
+    width: 615px;
+    height: 410px;
+    margin: 10px auto;
+}
+.square{
+    width: 185px;
+    height: 185px;
+    border-radius: 50px;
+    margin:10px;
+    float: left;
+    background-color: black;
+}
+#second{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+button{
+    background: none;
+    border: none;
+    height: 30px;
+    color: darkcyan;
+}
+#msg{
+    margin: 30px;
+    height: 30px;
+    font-weight: 700;
+    color: darkcyan;
+}
